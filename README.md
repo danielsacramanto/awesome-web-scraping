@@ -31,3 +31,4 @@ Make this list better! Your contributions are always welcome! See [contributing 
 Feel free to share feedback in telegram chats about web scraping: [@grablab](https://t.me/grablab) (English) and [@grablab_ru](https://t.me/grablab_ru) (Russian)
 
 The list is based initially on some data from these sources [awesome-python](https://github.com/vinta/awesome-python), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-ruby](https://github.com/markets/awesome-ruby), [ruby-nlp](https://github.com/diasks2/ruby-nlp), [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+* [Quoteish](https://www.quoteish.org/) - A collection of famous quotes and sayings.
